@@ -1,8 +1,21 @@
 @charset "UTF-8";
 body
 {
-    background-color: burlywood;
+    background-color: rgb(135, 209, 222);
     color: black;
     font-size: 12pt;
     font-family: Arial;
+}
+body
+{
+width: 100%;
+text-align: center;
+color:black;
+padding: 20px;
+background-image: linear-gradient(to right, #b42929, #633908);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(rgb(0, 255, 213), rgb(0, 102, 128), rgb(0, 247, 255));
 }
